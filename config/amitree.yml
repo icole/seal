@@ -1,0 +1,31 @@
+# Please insert new items alphabetically.
+amitree:
+  members:
+    - chao-xian
+    - kylemacpherson
+    - matmoore
+    - peteglondon
+    - pmanrubia
+    - theKHutDeveloper
+
+  channel:
+    "#code_chat"
+
+  exclude_titles:
+    - "[DO NOT MERGE]"
+    - "Don't merge"
+    - DO NOT MERGE
+    - WIP
+
+  use_labels: true
+
+  exclude_labels:
+    - "wip"
+
+  quotes:
+    - Be the change you want to see!
+    - Help each other out. Pair if possible.
+    - Be considerate to remote workers. Ask \#remote-discussion for tips.
+    - If you're not well, don't come in to the office. And get some rest!
+    - Does your work have a story? Has your story got points?
+    - I AM VENGEANCE! I AM THE NIGHT! I AM BATMAN! :batsignal:

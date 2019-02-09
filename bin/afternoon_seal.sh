@@ -1,10 +1,7 @@
 #!/bin/bash
 
 teams=(
-  data-informed-content
-  porg-pages
-  reliability-engineering
-  gov-uk-licensing-support
+  amitree
 )
 
 for team in ${teams[*]} ; do
